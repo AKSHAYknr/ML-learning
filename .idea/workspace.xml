@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="827dbf1d-9958-4e1f-9b9e-a3eb6abf517f" name="Changes" comment="EDA using univariate analysis">
-      <change afterPath="$PROJECT_DIR$/EDA/bivariate.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EDA/titanic.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/EDA/univariate.ipynb" afterDir="false" />
+    <list default="true" id="827dbf1d-9958-4e1f-9b9e-a3eb6abf517f" name="Changes" comment="EDA using bivariate analysis">
+      <change afterPath="$PROJECT_DIR$/EDA/ydataprofiling.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,14 +42,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\ML-Learning\EDA" />
@@ -88,12 +87,21 @@
       <option name="project" value="LOCAL" />
       <updated>1761583211668</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="EDA using bivariate analysis">
+      <option name="closed" value="true" />
+      <created>1761656526227</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1761656526227</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="EDA using univariate analysis" />
-    <option name="LAST_COMMIT_MESSAGE" value="EDA using univariate analysis" />
+    <MESSAGE value="EDA using bivariate analysis" />
+    <option name="LAST_COMMIT_MESSAGE" value="EDA using bivariate analysis" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
