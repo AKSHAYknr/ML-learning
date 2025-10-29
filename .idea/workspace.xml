@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="827dbf1d-9958-4e1f-9b9e-a3eb6abf517f" name="Changes" comment="EDA using bivariate analysis">
-      <change afterPath="$PROJECT_DIR$/EDA/ydataprofiling.ipynb" afterDir="false" />
+    <list default="true" id="827dbf1d-9958-4e1f-9b9e-a3eb6abf517f" name="Changes" comment="pandas profiling">
+      <change afterPath="$PROJECT_DIR$/Feature-Scaling/standardization.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,13 +96,22 @@
       <option name="project" value="LOCAL" />
       <updated>1761656526227</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="pandas profiling">
+      <option name="closed" value="true" />
+      <created>1761661149664</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1761661149664</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="EDA using univariate analysis" />
     <MESSAGE value="EDA using bivariate analysis" />
-    <option name="LAST_COMMIT_MESSAGE" value="EDA using bivariate analysis" />
+    <MESSAGE value="pandas profiling" />
+    <option name="LAST_COMMIT_MESSAGE" value="pandas profiling" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
