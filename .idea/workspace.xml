@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="827dbf1d-9958-4e1f-9b9e-a3eb6abf517f" name="Changes" comment="columntransformer">
-      <change afterPath="$PROJECT_DIR$/ML-Pipelines/titanic_using_pipelines.ipynb" afterDir="false" />
+    <list default="true" id="827dbf1d-9958-4e1f-9b9e-a3eb6abf517f" name="Changes" comment="ml pipelines">
+      <change afterPath="$PROJECT_DIR$/Transform/function_transformer.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Categorical-Encoding/columntransformer.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Transform/columntransformer.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +55,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\ML-Learning\Transform" />
       <recent name="E:\ML-Learning\EDA" />
     </key>
   </component>
@@ -144,7 +146,15 @@
       <option name="project" value="LOCAL" />
       <updated>1761754958320</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="ml pipelines">
+      <option name="closed" value="true" />
+      <created>1761822891130</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1761822891130</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -156,7 +166,8 @@
     <MESSAGE value="ordinal and label encoding" />
     <MESSAGE value="onehotencoding" />
     <MESSAGE value="columntransformer" />
-    <option name="LAST_COMMIT_MESSAGE" value="columntransformer" />
+    <MESSAGE value="ml pipelines" />
+    <option name="LAST_COMMIT_MESSAGE" value="ml pipelines" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
