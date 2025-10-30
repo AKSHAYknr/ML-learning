@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="827dbf1d-9958-4e1f-9b9e-a3eb6abf517f" name="Changes" comment="onehotencoding">
-      <change afterPath="$PROJECT_DIR$/Categorical-Encoding/columntransformer.ipynb" afterDir="false" />
+    <list default="true" id="827dbf1d-9958-4e1f-9b9e-a3eb6abf517f" name="Changes" comment="columntransformer">
+      <change afterPath="$PROJECT_DIR$/ML-Pipelines/titanic_using_pipelines.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -136,7 +136,15 @@
       <option name="project" value="LOCAL" />
       <updated>1761751832350</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="columntransformer">
+      <option name="closed" value="true" />
+      <created>1761754958320</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1761754958320</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -147,7 +155,8 @@
     <MESSAGE value="normalization in scaling using minmaxscaling" />
     <MESSAGE value="ordinal and label encoding" />
     <MESSAGE value="onehotencoding" />
-    <option name="LAST_COMMIT_MESSAGE" value="onehotencoding" />
+    <MESSAGE value="columntransformer" />
+    <option name="LAST_COMMIT_MESSAGE" value="columntransformer" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
