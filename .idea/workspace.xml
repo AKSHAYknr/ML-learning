@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="827dbf1d-9958-4e1f-9b9e-a3eb6abf517f" name="Changes" comment="ml pipelines">
-      <change afterPath="$PROJECT_DIR$/Transform/function_transformer.ipynb" afterDir="false" />
+    <list default="true" id="827dbf1d-9958-4e1f-9b9e-a3eb6abf517f" name="Changes" comment="function transformer">
+      <change afterPath="$PROJECT_DIR$/Transform/box_cox_transform.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Categorical-Encoding/columntransformer.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Transform/columntransformer.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -154,7 +153,15 @@
       <option name="project" value="LOCAL" />
       <updated>1761822891130</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="function transformer">
+      <option name="closed" value="true" />
+      <created>1761831019099</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1761831019099</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -167,7 +174,8 @@
     <MESSAGE value="onehotencoding" />
     <MESSAGE value="columntransformer" />
     <MESSAGE value="ml pipelines" />
-    <option name="LAST_COMMIT_MESSAGE" value="ml pipelines" />
+    <MESSAGE value="function transformer" />
+    <option name="LAST_COMMIT_MESSAGE" value="function transformer" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
