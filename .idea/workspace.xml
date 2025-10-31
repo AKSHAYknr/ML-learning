@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="827dbf1d-9958-4e1f-9b9e-a3eb6abf517f" name="Changes" comment="function transformer">
-      <change afterPath="$PROJECT_DIR$/Transform/box_cox_transform.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="827dbf1d-9958-4e1f-9b9e-a3eb6abf517f" name="Changes" comment="handling mixed date and time column" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -161,7 +158,39 @@
       <option name="project" value="LOCAL" />
       <updated>1761831019099</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="power transformer">
+      <option name="closed" value="true" />
+      <created>1761898776325</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1761898776325</updated>
+    </task>
+    <task id="LOCAL-00013" summary="binning">
+      <option name="closed" value="true" />
+      <created>1761922374012</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1761922374012</updated>
+    </task>
+    <task id="LOCAL-00014" summary="handling mixed data column">
+      <option name="closed" value="true" />
+      <created>1761924712909</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1761924712909</updated>
+    </task>
+    <task id="LOCAL-00015" summary="handling mixed date and time column">
+      <option name="closed" value="true" />
+      <created>1761930684884</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1761930684884</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -175,7 +204,11 @@
     <MESSAGE value="columntransformer" />
     <MESSAGE value="ml pipelines" />
     <MESSAGE value="function transformer" />
-    <option name="LAST_COMMIT_MESSAGE" value="function transformer" />
+    <MESSAGE value="power transformer" />
+    <MESSAGE value="binning" />
+    <MESSAGE value="handling mixed data column" />
+    <MESSAGE value="handling mixed date and time column" />
+    <option name="LAST_COMMIT_MESSAGE" value="handling mixed date and time column" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
