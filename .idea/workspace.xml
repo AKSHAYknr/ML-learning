@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="827dbf1d-9958-4e1f-9b9e-a3eb6abf517f" name="Changes" comment="power transformer">
-      <change afterPath="$PROJECT_DIR$/Binning-Binarization/binning.ipynb" afterDir="false" />
+    <list default="true" id="827dbf1d-9958-4e1f-9b9e-a3eb6abf517f" name="Changes" comment="binning">
+      <change afterPath="$PROJECT_DIR$/Handling_Mixed_Variables/mixed_variables.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -169,7 +169,15 @@
       <option name="project" value="LOCAL" />
       <updated>1761898776325</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="binning">
+      <option name="closed" value="true" />
+      <created>1761922374012</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1761922374012</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -184,7 +192,8 @@
     <MESSAGE value="ml pipelines" />
     <MESSAGE value="function transformer" />
     <MESSAGE value="power transformer" />
-    <option name="LAST_COMMIT_MESSAGE" value="power transformer" />
+    <MESSAGE value="binning" />
+    <option name="LAST_COMMIT_MESSAGE" value="binning" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
